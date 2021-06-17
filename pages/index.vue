@@ -26,6 +26,7 @@
             })
           "
         >
+        
           <template v-if="item.enclosure">
             <v-img
               class="white--text align-end"
